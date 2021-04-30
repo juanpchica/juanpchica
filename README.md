@@ -1,6 +1,6 @@
 ### Hi there, I'm Juan 👋
 
-## 👀 I'm a Mechatronic Engineer, Senior full Stack developer with 7+years of experience coding websites,CMS,desktop appications. 👀
+## 👀 I'm Senior full Stack developer and a Mechatronic Engineer with 7+years of experience coding websites,CMS,desktop applications, WebApps, Mobile Apps. 👀
 
 - 🌱 I’m currently learning everything 😜
 - 🥅 2021 Goals: Create my own projects and portfolio
