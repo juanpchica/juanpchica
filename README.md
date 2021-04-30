@@ -1,6 +1,6 @@
 ### Hi there, I'm Juan 👋
 
-👀 I'm a Senior full Stack developer and a Mechatronic Engineer with 7+years of experience coding websites,CMS,desktop applications, WebApps, Mobile Apps. 👀
+👀 I'm a Senior full Stack developer and a Mechatronic Engineer with 7+years of experience coding websites,CMS,desktop applications,WebApps, Mobile Apps. 👀
 
 - 🌱 I’m currently learning everything 😜
 - 🥅 2021 Goals: Create my own projects and portfolio
@@ -32,7 +32,9 @@
 
 <br />
 
+<br />
+
 ### My Stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=juanpchica&show_icons=true&include_all_commits=true&theme=gruvbox" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanpchica&layout=compact&theme=material-palenight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanpchica&layout=compact&theme=gruvbox" />
