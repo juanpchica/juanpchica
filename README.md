@@ -3,7 +3,7 @@
 👀 I'm a Senior full Stack developer and a Mechatronic Engineer with 7+years of experience coding websites,CMS,desktop applications,WebApps, Mobile Apps. 👀
 
 - 🌱 I’m currently learning everything 😜
-- 🥅 2021 Goals: Create my own projects and portfolio
+- 🥅 2022 Goals: Mastering React, React Native, Typescript and Testing
 - ⚡ Fun fact: I love to play guitar 🎸 / Gym 💪
 
 <br />
